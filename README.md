@@ -9,6 +9,8 @@ Static executive profile website for `https://rameshmarella.com/`, built from `R
 - `script.js` - header state and dynamic footer year
 - `assets/enterprise-cloud-command-center.png` - generated hero visual
 - `assets/ramesh-marella-profile-900.png` - profile photo displayed on the webpage
+- `downloads/ramesh-marella-one-page-resume.pdf` - one-page resume PDF download
+- `downloads/ramesh-marella-detailed-resume.pdf` - detailed resume PDF download
 - `CNAME` - GitHub Pages custom domain mapping
 - `netlify.toml` - Netlify static hosting configuration
 - `vercel.json` - Vercel headers and apex-to-www redirect
